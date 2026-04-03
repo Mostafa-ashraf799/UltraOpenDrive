@@ -1,0 +1,13 @@
+{
+  "auth": {
+    "token": "YOUR_AUTH_BOT_TOKEN",
+    "chat_id": "YOUR_AUTH_CHAT_ID"
+  },
+  "storage": {
+    "token": "YOUR_STORAGE_BOT_TOKEN",
+    "chat_id": "YOUR_STORAGE_CHAT_ID"
+  },
+  "rooms": {
+    "token": "YOUR_ROOMS_BOT_TOKEN"
+  }
+}
