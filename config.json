@@ -1,11 +1,11 @@
 {
   "auth": {
     "token": "8454276673:AAEtUZiVS1jbAJiJhv_Vmbzv2BY7x95h6jA",
-    "chat_id": "YOUR_AUTH_CHAT_ID"
+    "chat_id": "6996109881"
   },
   "storage": {
     "token": "8533258051:AAGYKJtA3DwhgRTOrEpnM3LIoDdb8YgnJAg",
-    "chat_id": "YOUR_STORAGE_CHAT_ID"
+    "chat_id": "6996109881"
   },
   "rooms": {
     "token": "8650620232:AAFHsZEuABvnKvbj9xXltzz5DKUmp310E2Q"
